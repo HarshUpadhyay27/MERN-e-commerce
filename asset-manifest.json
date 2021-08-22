@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/MERN-e-commerce/static/css/main.81e7f060.chunk.css",
+    "main.js": "/MERN-e-commerce/static/js/main.92d62ab7.chunk.js",
+    "main.js.map": "/MERN-e-commerce/static/js/main.92d62ab7.chunk.js.map",
+    "runtime-main.js": "/MERN-e-commerce/static/js/runtime-main.a4810cfc.js",
+    "runtime-main.js.map": "/MERN-e-commerce/static/js/runtime-main.a4810cfc.js.map",
+    "static/js/2.6cebf191.chunk.js": "/MERN-e-commerce/static/js/2.6cebf191.chunk.js",
+    "static/js/2.6cebf191.chunk.js.map": "/MERN-e-commerce/static/js/2.6cebf191.chunk.js.map",
+    "index.html": "/MERN-e-commerce/index.html",
+    "static/css/main.81e7f060.chunk.css.map": "/MERN-e-commerce/static/css/main.81e7f060.chunk.css.map",
+    "static/js/2.6cebf191.chunk.js.LICENSE.txt": "/MERN-e-commerce/static/js/2.6cebf191.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4810cfc.js",
+    "static/js/2.6cebf191.chunk.js",
+    "static/css/main.81e7f060.chunk.css",
+    "static/js/main.92d62ab7.chunk.js"
+  ]
+}
